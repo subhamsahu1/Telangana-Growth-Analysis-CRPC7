@@ -44,27 +44,38 @@ The dataset is taken from Open Data Telangana. Thanks to the Telangana Governmen
 🔗 Project Challenge Link - https://lnkd.in/ddaUtx5Y
 
 🛠 Tools and Approach 🛠
+
 🔷 For Visualization - Power BI
+
 🔷 For Data Cleaning - MS Excel, Power Query
+
 🔷 For Presentation - PowerPoint Presentations
 
 📌 Websites Referenced📌
+
 ⚡Telangana Open Data portal: https://lnkd.in/gYVtVhG2
+
 ⚡TS-iPass : https://lnkd.in/gK85BMXr
+
 ⚡Invest Telangana: https://lnkd.in/gpvYqzms
+
 ⚡T-Hub: https://t-hub.co/
+
 ⚡Chat GPT : https://chat.openai.com/
 
 👉From Telangana Government, I'd like to express my thanks to:
 1. Kalvakuntla Taraka Rama Rao / KTR 
 Minister for IT, Industries and Municipal Administration:
 https://lnkd.in/dVXdzK2g
+
 2. Jayesh Ranjan 
 Secretary, Information Technology (IT); Government of Telangana:
 https://lnkd.in/dxYBCwit
+
 3. Dileep Konatham 
 Director at Government of Telangana
 https://lnkd.in/d__gzev7
+
 4. venu panjarla 
 Open Data Telangana
 https://lnkd.in/dx82y5K2
@@ -73,6 +84,7 @@ https://lnkd.in/dx82y5K2
 1. Dhaval Patel 
 Founder, Codebasics
 https://lnkd.in/dNg_zBVr
+
 2. Hemanand Vadivel 
 Co-Founder, Codebasics
 https://lnkd.in/dH_QyS_N
