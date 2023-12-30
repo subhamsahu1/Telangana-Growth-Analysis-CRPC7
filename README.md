@@ -36,8 +36,11 @@ Imagine yourself as Peter Pandey and perform the following task.
 The dataset is taken from Open Data Telangana. Thanks to the Telangana Government for providing real-time datasets for public access which is a great learning asset - feel free to explore them here. (https://data.telangana.gov.in/). 
 
 🖇️Important Links🖇️
+
 🔗 Live Interactive Report Link - https://lnkd.in/dX9rBReQ
+
 🔗 PPT Link - https://lnkd.in/dF-4yEjT
+
 🔗 Project Challenge Link - https://lnkd.in/ddaUtx5Y
 
 🛠 Tools and Approach 🛠
