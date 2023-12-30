@@ -1,4 +1,4 @@
-![Uploading PLACES-1200-630--1024x538.png…]()
+![PLACES-1200-630--1024x538](https://github.com/subhamsahu1/Telangana-Growth-Analysis-CRPC7/assets/37975171/b8648358-677e-4ab5-a14f-04ca878e3419)
 
 # Telangana-Growth-Analysis-CRPC7
 
