@@ -1,3 +1,5 @@
+![Uploading PLACES-1200-630--1024x538.png…]()
+
 # Telangana-Growth-Analysis-CRPC7
 
 Telangana is one of the fastest-growing states in India and one of the states with an open data policy. (They have published all their data online)
