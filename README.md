@@ -35,7 +35,7 @@ Imagine yourself as Peter Pandey and perform the following task.
 ## Credits: 
 The dataset is taken from Open Data Telangana. Thanks to the Telangana Government for providing real-time datasets for public access which is a great learning asset - feel free to explore them here. (https://data.telangana.gov.in/). 
 
-🖇️Important Links🖇️
+## 🖇️Important Links🖇️
 
 🔗 Live Interactive Report Link - https://lnkd.in/dX9rBReQ
 
@@ -43,7 +43,7 @@ The dataset is taken from Open Data Telangana. Thanks to the Telangana Governmen
 
 🔗 Project Challenge Link - https://lnkd.in/ddaUtx5Y
 
-🛠 Tools and Approach 🛠
+## 🛠 Tools and Approach 🛠
 
 🔷 For Visualization - Power BI
 
@@ -51,7 +51,7 @@ The dataset is taken from Open Data Telangana. Thanks to the Telangana Governmen
 
 🔷 For Presentation - PowerPoint Presentations
 
-📌 Websites Referenced📌
+## 📌 Websites Referenced📌
 
 ⚡Telangana Open Data portal: https://lnkd.in/gYVtVhG2
 
@@ -63,7 +63,7 @@ The dataset is taken from Open Data Telangana. Thanks to the Telangana Governmen
 
 ⚡Chat GPT : https://chat.openai.com/
 
-👉From Telangana Government, I'd like to express my thanks to:
+## 👉From Telangana Government, I'd like to express my thanks to:
 1. Kalvakuntla Taraka Rama Rao / KTR 
 Minister for IT, Industries and Municipal Administration:
 https://lnkd.in/dVXdzK2g
@@ -80,7 +80,7 @@ https://lnkd.in/d__gzev7
 Open Data Telangana
 https://lnkd.in/dx82y5K2
 
-👉From Codebasics Team:
+## 👉From Codebasics Team:
 1. Dhaval Patel 
 Founder, Codebasics
 https://lnkd.in/dNg_zBVr
